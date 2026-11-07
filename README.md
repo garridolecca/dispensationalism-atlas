@@ -18,7 +18,7 @@ Interactive historical atlas tracing the history of Dispensationalism from the P
 
 - ArcGIS Maps SDK for JavaScript 5.0
 - Calcite Design System
-- CartoDB Positron basemap tiles
+- Esri World Light Gray Canvas basemap tiles (no API key required)
 - Google Fonts (Cinzel + Inter)
 - Vanilla JavaScript (ES Modules)
 
